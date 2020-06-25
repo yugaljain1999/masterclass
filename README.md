@@ -1,2 +1,1 @@
-# masterclass
-css and html
+# Introduction to CSS and HTML
